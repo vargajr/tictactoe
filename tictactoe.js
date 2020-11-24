@@ -1,3 +1,4 @@
+'use strict';
 // maga a mátrix, egyelőre csak egy üres tömb
 const matrix = [];
 // sorok és oszlopok száma, hátha nem nágyzetes
